@@ -10,6 +10,8 @@ git config --global user.email "jeromwork@inbox.ru"
 git config --global -e
 
 
+git init
+
 Если уже подключены к репозиторию отключаемся
 git remote rm origin
 Теперь подключаемся к выбранному репозиторию
